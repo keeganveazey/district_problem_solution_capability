@@ -1,5 +1,6 @@
 # Building a district problem solution capability
-For an overview of this capability, please see the informational overview powerpoint.
+For an overview of this capability, please see the informational overview powerpoint
+@ School Board Meeting Transcript Problem Solution.pdf 
 
 ## **File Documentation**
 
