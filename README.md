@@ -2,6 +2,8 @@
 For an overview of this capability, please see the informational overview powerpoint
 [@ School Board Meeting Transcript Problem Solution.pdf ](https://github.com/keeganveazey/district_problem_solution_capability/blob/12cb99e68f885d96ed5ab478171d16e574cfc6ff/School%20Board%20Meeting%20Transcript%20Problem%20Solution.pdf)
 
+This project requires Python3.12. Use requirements.txt to create a venv to run notebooks in. Note: most if not all notebooks originally written as Python scripts. They can be converted back to scripts by copying and pasting all cells into .py file if desired.
+
 ## **File Documentation**
 
 (Note: file **deepseek_results_24_25_only.csv** is very large, to use download and unzip from https://drive.google.com/file/d/1Qac0hNcEe6sYsvL-0NlKjQ9obHmE8J0n/view?usp=sharing)
