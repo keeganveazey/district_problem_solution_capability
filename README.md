@@ -1,4 +1,5 @@
-# district_problem_solution_capability
+# Building a district problem solution capability
+For an overview of this capability, please see the informational overview powerpoint.
 
 ## **File Documentation**
 
@@ -138,7 +139,7 @@
    * farthest\_state:  state acronym of the district with the least similar solution to the one being matched  
    * *farthest\_solution*: text solution provided by the district with the least similar solution to the one being matched
 
-**IRB Documentation**
+## **IRB Documentation**
 
 **Participant Information Sheet**  
 PDF write up for IRB participant information sheet with research subject “Understanding School Board Engagement with Education Policy Strategies”
@@ -147,7 +148,7 @@ PDF write up for IRB participant information sheet with research subject “Unde
 Example survey created regarding school closure topics for board member insight  
 [https://docs.google.com/forms/d/e/1FAIpQLSfUwi8lGmwrVA15rQsDRz4YGl8UPqGbE8q2lCM7CJqcS\_O\_VA/viewform?usp=sharing\&ouid=115032336610307901975](https://docs.google.com/forms/d/e/1FAIpQLSfUwi8lGmwrVA15rQsDRz4YGl8UPqGbE8q2lCM7CJqcS_O_VA/viewform?usp=sharing&ouid=115032336610307901975) 
 
-**Quality Check Documentation**
+## **Quality Check Documentation**
 
 **expected\_relevancy\_results\_100.xlsx**  
 Excel file with quality check information for DeepSeek relevancy tagging. The description is as follows: Sections from a random selection of meetings are manually annotated until there are 50 expected "relevant", and 50 expected "non relevant" sections. Because each video is independent and there is no inherent ordering to the rows in each file, the first 10-15 unique video ids (aka rows) are arbitrarily selected from each deepseek result test file until the 50-50 ratio is achieved by manual annotation. The sections are then passed through ChatGPT model (gpt4o) for auto tagging. The results are compared and accuracy of deepseek tagging and gpt relevancy tag is calculated and confusion values are noted.			  
