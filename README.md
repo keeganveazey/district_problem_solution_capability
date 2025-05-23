@@ -4,6 +4,8 @@ For an overview of this capability, please see the informational overview powerp
 
 ## **File Documentation**
 
+(Note: file **deepseek_results_24_25_only.csv** is very large, to use download and unzip from https://drive.google.com/file/d/1Qac0hNcEe6sYsvL-0NlKjQ9obHmE8J0n/view?usp=sharing)
+
 **step0\_data\_prep\_and\_relevancy\_filtering.ipynb**
 
 * **Files required to run this file:**  *districtview2025.topics.jsonl* \- district view jsonl file containing at least the following columns:  
