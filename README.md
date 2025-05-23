@@ -1,6 +1,6 @@
 # Building a district problem solution capability
 For an overview of this capability, please see the informational overview powerpoint
-@ School Board Meeting Transcript Problem Solution.pdf 
+[@ School Board Meeting Transcript Problem Solution.pdf ](https://github.com/keeganveazey/district_problem_solution_capability/blob/12cb99e68f885d96ed5ab478171d16e574cfc6ff/School%20Board%20Meeting%20Transcript%20Problem%20Solution.pdf)
 
 ## **File Documentation**
 
